@@ -29,7 +29,7 @@ The dataset used in this project is the CIC-DDoS2019 dataset. The dataset has be
 - **Ensemble Model**: Combines SVM, KNN, and NB using soft voting.
 
 ## Feature Selection
-Principal Component Analysis (PCA) was used for feature selection to improve model accuracy and computational efficiency. The feature selection process helps in reducing the dimensionality of the dataset while retaining the most important features.
+Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA) were used for feature selection to improve model accuracy and computational efficiency. PCA was used for SVM, KNN, and the Ensemble model, while LDA was used for Naive Bayes. The feature selection process helps in reducing the dimensionality of the dataset while retaining the most important features.
 
 ## Hyperparameter Tuning
 Halving Grid Search was used for hyperparameter tuning to find the best parameters for each model, optimizing their performance.
