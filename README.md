@@ -12,6 +12,7 @@ This repository contains the code and dataset used for the detection of DDoS att
 - [Visualizations](#visualizations)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
+- [Running on Google Colab](#running-on-google-colab)
 - [Contributing](#contributing)
 
 
