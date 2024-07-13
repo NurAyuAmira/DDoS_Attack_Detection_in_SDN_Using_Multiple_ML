@@ -49,7 +49,7 @@ To get started, clone this repository to your local machine and install the requ
 
 
     git clone https://github.com/your-username/DDoS_Attack_Detection_in_SDN_Using_Multiple_ML.git
-    cd DDOS-Detection-SDN
+    cd DDoS_Attack_Detection_in_SDN_Using_Multiple_ML
     pip install -r requirements.txt
 
 ## Usage 
