@@ -67,7 +67,7 @@ To run this project on Google Colab, follow these steps:
 1.  Open Google Colab in your browser.
 2.  Select "File" > "Open notebook".
 3.  Go to the "GitHub" tab.
-4.  Enter the GitHub repository URL: `https://github.com/your-usernameDDoS_Attack_Detection_in_SDN_Using_Multiple_ML`.
+4.  Enter the GitHub repository URL: `https://github.com/NurAyuAmira/DDoS_Attack_Detection_in_SDN_Using_Multiple_ML/blob/main/README.md`.
 5.  Select the notebook you want to run from the list.
 6.  After the notebook opens, run the first cell to clone the repository into the Colab environment:
 
