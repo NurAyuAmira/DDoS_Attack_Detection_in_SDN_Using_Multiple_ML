@@ -71,8 +71,8 @@ To run this project on Google Colab, follow these steps:
 5.  Select the notebook you want to run from the list.
 6.  After the notebook opens, run the first cell to clone the repository into the Colab environment:
 
-    `!git clone https://github.com/your-username/DDOS-Detection-SDN.git
-    %cd DDOS-Detection-SDN` 
+    `!git clone https://github.com/NurAyuAmira/DDoS_Attack_Detection_in_SDN_Using_Multiple_ML.git
+    %cd DDoS_Attack_Detection_in_SDN_Using_Multiple_ML` 
     
 7.  Install the required dependencies:
     
